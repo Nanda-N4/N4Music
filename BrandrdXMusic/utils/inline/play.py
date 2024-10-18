@@ -71,7 +71,7 @@ def stream_markup_timer(_, vidid, chat_id, played, dur):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/n4nd404"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/t3amn4chat"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/n4vpn"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -93,7 +93,7 @@ def stream_markup(_, videoid, chat_id):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/n4nd404"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/t3amn4chat"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/n4vpn"
             ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -248,7 +248,7 @@ def stream_markup2(_, chat_id):
                 text="⛦ ᴏᴡɴᴇʀ ❥", url=f"https://t.me/n4nd404"
             ),
             InlineKeyboardButton(
-                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/t3amn4chat"
+                text="⛦ ᴄʜᴀᴛ ❥", url=f"https://t.me/n4vpn"
             ),
         ],
 
